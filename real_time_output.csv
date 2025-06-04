@@ -1,0 +1,11 @@
+Timestamp,CPU usage [%],Current Frequency [MHz],New Frequency [MHz],DVFS Action,DPM Action,AVS Action,Power without DVFS,Power with DVFS,Power with DPM,Power with AVS,CPU Usage [%]
+1733100690.8989656,,1508.0,1809.6,Scaling up,Normal operation,Scaling up,2112.0,1809.6,1508.0,1465.776,11.3
+1733100691.9179995,,1609.0,1930.8,Scaling up,Normal operation,Scaling up,2112.0,1930.8,1609.0,1563.948,11.0
+1733100692.9268198,,1508.0,1809.6,Scaling up,Normal operation,Scaling up,2112.0,1809.6,1508.0,1465.776,11.4
+1733100693.9307747,,1508.0,1809.6,Scaling up,Normal operation,Scaling up,2112.0,1809.6,1508.0,1465.776,11.6
+1733100694.934962,,1609.0,1930.8,Scaling up,Normal operation,Scaling up,2112.0,1930.8,1609.0,1563.948,12.5
+1733100695.938823,,1508.0,1809.6,Scaling up,Normal operation,Scaling up,2112.0,1809.6,1508.0,1465.776,15.6
+1733100696.9433799,,1609.0,1930.8,Scaling up,Normal operation,Scaling up,2112.0,1930.8,1609.0,1563.948,9.7
+1733100697.9470837,,1609.0,1930.8,Scaling up,Normal operation,Scaling up,2112.0,1930.8,1609.0,1563.948,16.0
+1733100698.9529388,,1609.0,1930.8,Scaling up,Normal operation,Scaling up,2112.0,1930.8,1609.0,1563.948,23.4
+1733100699.955967,,1508.0,1809.6,Scaling up,Normal operation,Scaling up,2112.0,1809.6,1508.0,1465.776,19.0
